@@ -13,7 +13,7 @@ Compares a convolutional network (ResNet-18) with a vision transformer on the CI
 | ResNet-18 | [78.51%] |
 | Vision transformer | [38.80%] |
 
-Training curves for both models are in the .ipynb file. 
+Training curves for both models appear in the .ipynb file after running. 
 
 ## What I would do next
 
